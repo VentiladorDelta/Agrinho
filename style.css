@@ -36,6 +36,16 @@
     margin: 0 16px;
 }
 
+.cabeçalho-lista-item3 {
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.cabeçalho-lista-item4 {
+    display: inline-block;
+    margin: 0 16px;
+}
+
 .nossa-escola {
     background-image: linear-gradient(#7fd498, #4b7b45);
     color: white;
