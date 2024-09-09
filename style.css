@@ -48,12 +48,10 @@
 }
 
 .nossa-escola {
-    background-image: linear-gradient(#7fd498, #4b7b45);
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
+    background-image:url(campo.jpg)
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 
 }
 
