@@ -81,13 +81,13 @@
 }
 
 .equipe {
-    background-image:cross-fade(#22389bdb, #646466db) ;
+    background-color: #22389bdb ;
     color: white;
     text-align: center;
     align-items: center;
 }
 
-.professor{
+.professor-nome{
     width: 240px;
 }
 
