@@ -84,7 +84,7 @@
     background-color: #22389bdb ;
     color: white;
     text-align: center;
-    align-items: center;
+  
 }
 
 .professor-nome{
@@ -98,7 +98,6 @@
 .equipe-div {
     text-align: center;
     padding: 16px 0;
-    align-items: center;
 }
 
 .equipe-título{
@@ -113,7 +112,6 @@
 .rodapé{
     background-color: #050805;
     color: #4b7b45;
-    text-align: center;
     font-size: 20px;
     display: flex;
     justify-content: space-around;
